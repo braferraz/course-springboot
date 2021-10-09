@@ -13,17 +13,6 @@ Assegure-se de ter o [Heroku CLI](https://cli.heroku.com/) instalado.
 $ git clone https://github.com/braferraz/course-springboot.git 
 ```
 
-## Fazendo Deploy no Heroku
-
-```
-$ heroku create
-$ git push heroku master
-$ heroku open
-```
-ou
-
-[![Deploy to Heroku](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy)
-
 ### Objetivos
 - Criar projeto Spring Boot Java
 - Implementar modelo de domínio
