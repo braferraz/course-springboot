@@ -6,12 +6,6 @@
 - :bird: **Maven** - Gerencia as dependências e automatiza os builds.
 - :basketball: **Postman** - Teste de Api's
 
-### Começando
-Assegure-se de ter o [Heroku CLI](https://cli.heroku.com/) instalado.
-
-```sh
-$ git clone https://github.com/braferraz/course-springboot.git 
-```
 
 ### Objetivos
 - Criar projeto Spring Boot Java
